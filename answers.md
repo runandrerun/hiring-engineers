@@ -5,4 +5,5 @@ Your answers to the questions go here.
 
 2. Monitor - My_Metric
 - This metric returns the CPU usage of my Docker Linux Host
-[My_Metric Monitor](https://res.cloudinary.com/dx34xrygi/image/upload/v1545247386/Screen_Shot_2018-12-19_at_2.19.58_PM.png)
+- BONUS: In order to change the collection interval, edit the Delay Evaluation interval
+[My_Metric Monitor](https://res.cloudinary.com/dx34xrygi/image/upload/v1545328038/Screen_Shot_2018-12-20_at_12.46.53_PM.png)
